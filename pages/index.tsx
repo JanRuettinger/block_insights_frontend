@@ -136,7 +136,7 @@ const Home: NextPage = () => {
                         }}
                     />
                     <div className="ml-2 border-2 border-gray-400 p-2 rounded-md">
-                        Ethereum dropdown
+                        Ethereum mainnet
                     </div>
                     <button
                         className="p-2 bg-orange-500 ml-4 rounded-md px-4 font-semibold text-2xl"
